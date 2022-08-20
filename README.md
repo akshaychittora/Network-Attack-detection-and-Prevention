@@ -1,8 +1,6 @@
 ## Network-Attack-detection-and-Prevention
 
-### Developed a end to end system to detect intrusions like DDOS, TCP SYN flooding,
-ARP spoofing, Smurf DOS, Nmap and others and to take actions according to
-some predefined rules.
+#### Developed a end to end system to detect intrusions like DDOS, TCP SYN flooding, ARP spoofing, Smurf DOS, Nmap and others and to take actions according to some predefined rules.
 ### Used Snort, tcpdump and Grok-Exporter in the client machines as a packet sniffer and data collection.
 ### Used Prometheus and Grafana for server to monitor events and alerting. 
 On the server, we have a configuration file for prometheus which is ‘prometheus.yml.’
